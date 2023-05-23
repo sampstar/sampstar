@@ -10,7 +10,7 @@ SampStar is a Go-based framework that serves as a port of the open-multiplayer p
 
 ## Contact
 
-If you have any questions, suggestions, or would like to contribute to SampStar, please don't hesitate to contact us at davidwilsonbr2019@gmail.com. We value your feedback and look forward to hearing from you.
+If you have any questions, suggestions, or would like to contribute to SampStar, please don't hesitate to contact us at real.davidwilsonsouza@gmail.com. We value your feedback and look forward to hearing from you.
 
 ## Installation
 
