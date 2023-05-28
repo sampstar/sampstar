@@ -1,4 +1,0 @@
-package sampstar
-
-func Start() {
-}
